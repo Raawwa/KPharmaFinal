@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "79452506986",
+    "project_id": "kpharmaapp-5a56d",
+    "storage_bucket": "kpharmaapp-5a56d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:79452506986:android:b416db6524bbc0039db313",
+        "android_client_info": {
+          "package_name": "com.example.kpharmaapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "79452506986-hu3l2mrrulak8tbcegqk1shf0mot1kta.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.kpharmaapp",
+            "certificate_hash": "4681f1c8b7e67bc6865fc18549a9e8eee257d83a"
+          }
+        },
+        {
+          "client_id": "79452506986-kkfrov8pejtn8f17s41q552v2b97ju8d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC2BVV664PA4cgdco_Gxj2z3F7uUJWRQ-o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "79452506986-kkfrov8pejtn8f17s41q552v2b97ju8d.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "79452506986-vc27ra0pecopcg32rk3g9gb7s3qsspsg.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.cwtEcommerceApp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
